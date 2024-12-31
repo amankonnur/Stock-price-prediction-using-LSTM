@@ -1,7 +1,3 @@
-To create a brief README for the provided Jupyter Notebook, I'll extract its key details. Let me inspect the file.
-
-Here's a draft of the README file based on the extracted details:
-
 ## LSTM Model for Stock Market Price Prediction
 
 This repository contains a Jupyter Notebook that implements an LSTM-based model to predict stock market prices using historical data fetched from Yahoo Finance. The model utilizes data preprocessing, moving averages, and neural network techniques to forecast future prices.
